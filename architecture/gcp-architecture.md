@@ -1,3 +1,3 @@
 # GCP Production Architecture
 
-![GCP Architecture](images/gcp-architecture.png)
+![GCP Architecture](../images/gcp-architecture.png)
